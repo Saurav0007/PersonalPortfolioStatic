@@ -112,7 +112,7 @@
                             </div>
 
                             <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Mahmudul Hasan Saurav</h2>
-                            <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Backend Developer
+                            <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Software Engineer
                             </h4>
 
                             <ul>
@@ -122,7 +122,7 @@
                                         class="fa fa-phone"></i><a href="callto:">01629697898</a></li>
                                 <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i
                                         class="fa fa-map-marker"></i>
-                                    <address>Chandpur,Bangladesh</address>
+                                    <address>Mohammadpur,Dhaka,Bangladesh</address>
                                 </li>
                             </ul>
 
@@ -391,14 +391,27 @@
                                 <!-- Education Institutes-->
                                 <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s"
                                     data-wow-delay="0.4s">
-                                    <h4>Web Developer intern At <a href="#"> Redsoft Limited</a></h4>
-                                    <div class="mh-eduyear">2 month</div>
+                                    <h4>Laravel Developer intern At <a href="#"> Redsoft Limited</a></h4>
                                     <span>Responsibility :</span>
                                     <ul class="work-responsibility">
                                         <li><i class="fa fa-circle"></i>web design & development</li>
                                     </ul>
+                                    <span>Duration :</span>
+                                    <ul class="work-responsibility">
+                                        <li><i class="fa fa-circle"></i>2 Month</li>
+                                    </ul>
                                 </div>
-                                
+                                <div class="mh-work-item dark-bg wow fadeInUp" data-wow-duration="0.8s"
+                                    data-wow-delay="0.4s">
+                                    <h4>Laravel Developer <a href="#"> Intellec IT LTD</a></h4>
+                                    <div class="mh-eduyear">3 month</div>
+                                    <span>Responsibility :</span>
+                                    <ul class="work-responsibility">
+                                        <li><i class="fa fa-circle"></i>Web design & development</li>
+                                        <li><i class="fa fa-circle"></i>Website Customization</li>
+                                        <li><i class="fa fa-circle"></i>Creating new feature</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -598,7 +611,7 @@
                                     <div class="each-info">
                                         <h4>Address</h4>
                                         <address>
-                                            Chandpur Sadar, Chandpur, Bangladesh
+                                            R.06, H.43, Sekhertek, Mohammadpur, Dhaka.
                                         </address>
                                     </div>
                                 </div>
@@ -719,7 +732,7 @@
 
     {{-- //messenger button start// --}}
         <!-- Messenger Chat Plugin Code -->
-        <div id="fb-root"></div>
+        {{-- <div id="fb-root"></div>
 
         <!-- Your Chat Plugin code -->
         <div id="fb-customer-chat" class="fb-customerchat">
@@ -747,7 +760,7 @@
             js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
             fjs.parentNode.insertBefore(js, fjs);
           }(document, 'script', 'facebook-jssdk'));
-        </script>
+        </script> --}}
         {{-- //messenger button end// --}}
 </body>
 
