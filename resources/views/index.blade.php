@@ -174,7 +174,7 @@
                                 <li><span>Laravel</span></li>
                                 <li><span>Bootstrap</span></li>
                                 <li><span>Ajax</span></li>
-                                <li><span>Vue JS</span></li>
+                                <li><span>GIT</span></li>
                                 <li><span>MySql</span></li>
                                 <li><span>Communication</span></li>
                                 <li><span>Teamwork</span></li>
